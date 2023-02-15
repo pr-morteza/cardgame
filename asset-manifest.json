@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cardgame/static/css/main.fcc2c45e.css",
+    "main.js": "/cardgame/static/js/main.f960182b.js",
+    "static/media/ember.svg": "/cardgame/static/media/ember.b76abce7ae08bfee9a9c83a74426c73f.svg",
+    "static/media/aurelia.svg": "/cardgame/static/media/aurelia.eed243d2ca4ef39bec4d08415c7a8c82.svg",
+    "static/media/react.svg": "/cardgame/static/media/react.f9183dd2e9d38e722117a843079a4415.svg",
+    "static/media/backbone.svg": "/cardgame/static/media/backbone.7e59b6f7dee4f4bea08bc97afaeb4052.svg",
+    "static/media/js-badge.svg": "/cardgame/static/media/js-badge.485aafc116377626b60428936d8abbde.svg",
+    "static/media/vue.svg": "/cardgame/static/media/vue.8ea27b3e7b243549883aacdb8a027a6f.svg",
+    "static/media/angular.svg": "/cardgame/static/media/angular.9087b8672b558b3523ee87df8bedf0ef.svg",
+    "index.html": "/cardgame/index.html",
+    "main.fcc2c45e.css.map": "/cardgame/static/css/main.fcc2c45e.css.map",
+    "main.f960182b.js.map": "/cardgame/static/js/main.f960182b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcc2c45e.css",
+    "static/js/main.f960182b.js"
+  ]
+}
